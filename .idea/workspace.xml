@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="14895fc5-1f20-4d24-92eb-075cff6335a5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="14895fc5-1f20-4d24-92eb-075cff6335a5" name="Changes" comment="2nd commit. up to 14.3.3.">
+      <change afterPath="$PROJECT_DIR$/src/App1460.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App14601.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank1452.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank1461.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main1462.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SheepManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2O3Vlt2f4qWt9yo2kENz8pKZLBv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,12 +39,66 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SheepManager">
+    <configuration name="App1460" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App1460" />
+      <module name="SFModule14SyncThreads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App14601" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App14601" />
+      <module name="SFModule14SyncThreads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank1430" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bank1430" />
+      <module name="SFModule14SyncThreads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank1452" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bank1452" />
+      <module name="SFModule14SyncThreads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SheepManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SheepManager" />
+      <module name="SFModule14SyncThreads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SheepManager" />
+        <item itemvalue="Application.Bank1430" />
+        <item itemvalue="Application.App14601" />
+        <item itemvalue="Application.App1460" />
+        <item itemvalue="Application.Bank1452" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +108,45 @@
       <option name="presentableId" value="Default" />
       <updated>1680789408272</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit.">
+      <created>1680789457298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680789457298</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st commit. up to 14.3.3.">
+      <created>1680795891384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680795891384</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2nd commit. up to 14.3.3.">
+      <created>1680795998382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680795998382</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit." />
+    <MESSAGE value="1st commit. up to 14.3.3." />
+    <MESSAGE value="2nd commit. up to 14.3.3." />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd commit. up to 14.3.3." />
   </component>
 </project>
