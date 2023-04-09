@@ -3,7 +3,7 @@
 public class Bank1452 {
 
     private int money = 10000;
-    private Object lock = new Object();
+    private volatile Object lock = new Object();
     private volatile Object lock2 = money;
 
     int getMoney() {
@@ -12,7 +12,8 @@ public class Bank1452 {
 
     void take(int money) {
         synchronized (lock) {
-            synchronized (lock2) {
+//            synchronized (lock2)
+            {
                 if (getMoney() >= 1000)
                     this.money -= money;
             }
@@ -21,7 +22,8 @@ public class Bank1452 {
 
     void repay(int money) {
         synchronized (lock) {
-            synchronized (lock2) {
+//            synchronized (lock2)
+            {
 
                 this.money += money;
             }
